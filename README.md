@@ -1,40 +1,41 @@
-Introduction of Android
+# SDP - IIT Kanpur
 
-What is Android
-History and Version
-Install Android
-Internal Detail
-AndroidManifest.xml
-R.java
-Android Widgets
+Introduction of Android<br>
+What is Android  <br>
+History and Version <br>
+Install Android <br>
+Internal Detail <br>
+AndroidManifest.xml <br>
+R.java  <br>
+Android Widgets  <br>
 
-Working with Layout
-Button
-Toast
-Check Box
-Radio Button
-Rating Bar
-Spinner
-Alert Dialog
-Activity and Intents
+Working with Layout  <br>
+Button <br>
+Toast <br>
+Check Box <br>
+Radio Button <br>
+Rating Bar <br>
+Spinner <br>
+Alert Dialog <br>
+Activity and Intents <br>
+ 
+Activity Life Cycle <br>
+Intent <br>
+Android Menu <br>
 
-Activity Life Cycle
-Intent
-Android Menu
+Option Manu <br>
+Context Menu <br>
+Popup Menu <br>
+Android Service <br>
 
-Option Manu
-Context Menu
-Popup Menu
-Android Service
+Android Storage <br>
 
-Android Storage
+Android Preferences <br>
+Internal Storage <br>
+Sensor <br>
 
-Android Preferences
-Internal Storage
-Sensor
-
-Camera
-
-Android Device
-Bluetooth
-Wifi
+Camera <br>
+ 
+Android Device <br>
+Bluetooth <br>
+Wifi <br>
