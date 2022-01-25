@@ -1,5 +1,12 @@
 # SDP - IIT Kanpur
 
+
+### Build Process
+![build](https://user-images.githubusercontent.com/85002425/151048715-318b2967-39dc-41ff-9a7c-279facd60cd6.png)
+
+### Activity Life Cycle
+![activity-life-cycle-v2](https://user-images.githubusercontent.com/85002425/151049015-530d2962-b7c0-4422-9676-7448cfe01a05.png)
+
 Introduction of Android<br>
 What is Android  <br>
 History and Version <br>
